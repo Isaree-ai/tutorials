@@ -1,0 +1,22 @@
+# Common
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.DS_Store
+.venv/
+.python-version
+.claude/
+CLAUDE.md
+uv.lock
+.vscode/
+
+# ASR tutorial
+asr-tutorial/data/
+asr-tutorial/scripts/
+asr-tutorial/results/
+asr-tutorial/docs/
+asr-tutorial/tests/
+*.wav
+transcript.txt
+pipeline-slide.html

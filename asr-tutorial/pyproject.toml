@@ -1,0 +1,30 @@
+[project]
+name = "asr"
+version = "0.1.0"
+description = "Tutorial: build a personalized German medical ASR model using synthetic data"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "audiomentations>=0.43.1",
+    "httpx>=0.28.1",
+    "jiwer>=3.1.0",
+    "mlx-audio>=0.4.1",
+    "mlx-tune[audio]>=0.4.10",
+    "num2words>=0.5.14",
+    "soundfile>=0.13.1",
+    "tqdm>=4.67.3",
+    "jupyter>=1.1.1",
+    "ipykernel>=6.29.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.2",
+]
+
+[tool.uv]
+exclude-newer = "1 week"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

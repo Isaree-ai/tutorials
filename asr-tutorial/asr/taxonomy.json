@@ -1,0 +1,72 @@
+{
+  "entzuendlich": [
+    "Psoriasis vulgaris",
+    "Atopische Dermatitis",
+    "Kontaktekzem",
+    "Rosazea",
+    "Seborrhoische Dermatitis",
+    "Lichen planus",
+    "Periorale Dermatitis",
+    "Stauungsdermatitis",
+    "Intertrigo"
+  ],
+  "infektioes": [
+    "Tinea",
+    "Herpes simplex",
+    "Herpes zoster",
+    "Impetigo contagiosa",
+    "Molluscum contagiosum",
+    "Verrucae vulgares",
+    "Erysipel",
+    "Skabies",
+    "Follikulitis und Abszess",
+    "Condylomata acuminata"
+  ],
+  "autoimmun": [
+    "Lupus erythematodes",
+    "Pemphigus vulgaris",
+    "Bulloeses Pemphigoid",
+    "Vitiligo",
+    "Dermatomyositis",
+    "Morphea"
+  ],
+  "benigne_tumoren": [
+    "Melanozytaere Naevi",
+    "Seborrhoische Keratosen",
+    "Fibrome",
+    "Haemangiome",
+    "Lipome",
+    "Epidermoidzysten"
+  ],
+  "maligne_tumoren": [
+    "Malignes Melanom",
+    "Basalzellkarzinom",
+    "Plattenepithelkarzinom",
+    "Aktinische Keratosen",
+    "Kutanes Lymphom"
+  ],
+  "allergisch": [
+    "Urtikaria",
+    "Angiooedem",
+    "Arzneimittelexanthem",
+    "Insektenstichreaktionen",
+    "Photoallergische Reaktion"
+  ],
+  "haar_nagel": [
+    "Alopecia areata",
+    "Androgenetische Alopezie",
+    "Onychomykose",
+    "Nagelpsoriasis",
+    "Paronychie"
+  ],
+  "sonstige": [
+    "Akne vulgaris",
+    "Ulcus cruris",
+    "Xerosis cutis",
+    "Hyperhidrose",
+    "Pruritus sine materia",
+    "Narbenbehandlung und Keloide",
+    "Hidradenitis suppurativa",
+    "Pityriasis versicolor"
+  ]
+}
