@@ -10,7 +10,7 @@ The tutorial defaults to German dermatology for demonstration purposes, but you 
 
 ```bash
 # Clone and install
-git clone https://github.com/isareeai/tutorials.git
+git clone [https://github.com/isareeai/tutorials.git](https://github.com/Isaree-ai/tutorials.git)
 cd tutorials/asr-tutorial
 uv sync
 
